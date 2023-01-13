@@ -1,10 +1,8 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Navbar from "./Pages/HomePage/Components/Navbar";
 
 function App() {
   return (
-    <h1>Hello World</h1>
+    <Navbar></Navbar>
   );
 }
 
