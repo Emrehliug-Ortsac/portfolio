@@ -6,7 +6,7 @@ class Navbar extends Component {
         return <nav className="navbar navbar-expand-md bg-light fixed-top">
             <div className="container-fluid">
                 <a href="localhost:3000" className="navbar-brand">
-                    <img src="../../favicon_io/favicon-32x32.png" alt="" />
+                    <img src="../../favicon_io/favicon-32x32.png" alt="brand-portfolio" />
                 </a>
             </div>
             <div id="navbarCollapse" className="collapse navbar-collapse">
